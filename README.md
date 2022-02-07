@@ -39,9 +39,9 @@
 1) Armar el circuito que se muestra en la Figura 1.
   
 ![image](https://user-images.githubusercontent.com/93786746/152868010-ea9f69f9-9b01-4d22-9b37-c4e51d3f2eee.png)
+![image](https://user-images.githubusercontent.com/93786746/152882602-58fcb433-055a-475b-9d08-df25543704ab.png)
 
-
- _Ilustración 1. Circuito armado en Laboratotorio virtual dcaclab_
+ _Ilustración 1. Implementación del circuito 1 en Laboratotorio virtual dcaclab_
     
 2) Utilizar el osciloscopio para observar el voltaje V0 variando entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anotar los resultados en la tabla 7.1.
 
