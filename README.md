@@ -16,7 +16,7 @@
   *Familiarizarse con el uso de instrumentos de medida
 ## 2. Marco Teórico
   ## <p align=center> Capacitores.
-  
+  ![image](https://user-images.githubusercontent.com/93829962/152876407-4d92a9bf-f0c0-47f3-84ad-81f92db9a4e8.png)
   ## <p align=center> Bobinas.
 
    ## <p align=center> Materiales.
