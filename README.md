@@ -18,9 +18,10 @@
   ## <p align=center> Capacitores.
   ![image](https://user-images.githubusercontent.com/93829962/152876407-4d92a9bf-f0c0-47f3-84ad-81f92db9a4e8.png)
   ## <p align=center> Bobinas.
+  ![Blank diagram (1)](https://user-images.githubusercontent.com/93829962/152884094-96182ec7-a668-47b4-8f66-896030961bf1.jpeg)
+  ## <p align=center> Materiales.
+  ![Blank diagram](https://user-images.githubusercontent.com/93829962/152883414-c8612a9c-46dd-4214-bc27-1f0265b0d545.jpeg)
 
-   ## <p align=center> Materiales.
-     
 ## 3. Explicación del Procedimiento
    ## Materiales
  * Generador de señales
