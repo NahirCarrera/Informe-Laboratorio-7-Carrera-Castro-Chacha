@@ -39,7 +39,7 @@
 1) Armar el circuito que se muestra en la Figura 1.
   
 ![image](https://user-images.githubusercontent.com/93786746/152868010-ea9f69f9-9b01-4d22-9b37-c4e51d3f2eee.png)
-![image](https://user-images.githubusercontent.com/93786746/152882602-58fcb433-055a-475b-9d08-df25543704ab.png)
+![image](https://user-images.githubusercontent.com/93786746/152882793-9e997041-b43e-44e2-9fea-a50a09b580a3.png)
 
  _Ilustración 1. Implementación del circuito 1 en Laboratotorio virtual dcaclab_
     
