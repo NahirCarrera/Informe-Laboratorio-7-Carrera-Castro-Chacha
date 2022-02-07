@@ -73,7 +73,7 @@ _Ilustración Descripción_
 1) Armar el circuito que se muestra en la Figura 2.
   
 ![image](https://user-images.githubusercontent.com/93786746/152868823-8f88c4e7-00b4-4a3e-af73-eb06b5818e0b.png)
-
+![Circuito 2 Armado ](https://user-images.githubusercontent.com/93829976/152886360-b15f2696-2879-4ea1-ac23-50b57893d501.png)
 
  _Ilustración 8. Circuito armado en Laboratotorio virtual dcaclab_
     
