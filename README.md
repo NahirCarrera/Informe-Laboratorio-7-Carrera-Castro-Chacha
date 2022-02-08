@@ -114,14 +114,23 @@ _Tabla 7.2 Valores de voltaje V0 de circuito 2_
 Tras haber revisado las mediciones obtenidas sobre voltaje pico, voltaje y corriente en cada circuito, se puede evidenciar que el voltaje pico en ambos circuitos va variando segun la frecuencia, ya que la amplitud de la onda seno irá variando debido a que cambia la frecuencia. Con respecto a las variaciones que se da en el voltaje, en el primer circuito este irá disminuyendo en los capacitores de manera inversamente proporcional a la frecuencia, ya que mientras aumenta uno el otro se ve reducido; en el segundo circuito en cambio el voltaje en los inductores va a crecer de manera directamente proporcional al aumento de la frecuencia, llegando a ser mayor cuando la freucencia tiene su valor más alto. Y con respecto a la corriente que se dá en la resistencia, se puede ver que varía de forma desproporcional en ambos circuitos eléctricos mientras la frecuencia va aumentando su cantidad.
     
 ## 4. Respuesta a interrogantes
+  
 1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
 Cuando en un circuito existe una frecuencia de 0 Hz, es decir se da una corriente continua, el comportamiento que presenta una bobina ideal es similar al de un cortocircuito, ya que la intensidad de corriente poseerá un valor constante que no varía con respecto al tiempo, provocando que no haya autoinducción de ninguna fuerza electromotríz. Por otro lado, si existe corriente continua, el comportamiento que se dará en un capasitor es el de un circuito abierto y acumulará carga, ya que poseen dos placas que estan cargadas positiva y negativamente.
+
 2. ¿Cómo se comporta la bobina y el capacitor en corriente alterna?
+
 El comportamiento que tiene una bobina cuando se presenta corriente alterna en un circuito, es análogo al de una resistencia, puesto que se opone a la corriente y presenta lo que se denomina como reactancia inductiva, haciendo que la corriente en un circuito de corriente alterna se vea reducida. En cambio, el comportamiento que presenta un capacitor al estar en circuitos de corriente alterna es el de cargarse y descargarse varias veces mientras el circuito esté en funcionamiento, además, el voltaje de sus terminales estará desfasado 90° detrás de la corriente que lo atraviese; tiene su uso ya que puede hacer que corriente alterna fluya a una parte del circuito cuando se necesite. 
+
 3. ¿Qué cree usted que ocurriría con el voltaje de V0 y la corriente de la resistencia en los cirucitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores distintos?
+
 Si las bobinas que estan involucradas en el segundo circuito se ven afectadas sus valores, esto afectara la reactancia inductiva, lo que disminuirá la corriente y alterará directamente el valor que tiene Vo, el cual variará dependiendo de los valores en Weber que se le asigne a cada bobina. Y si el cambio de valores se dá en los capacitores del primer circuito, estos al ser análogos a las resistencias en serie, se sumará el valor de su capacitancia y alterará el voltaje Vo, sin embargo, la resistencia y la intensidad de corriente no se verán afectadas. 
+
 4. ¿Qué son los valores eficaces de voltaje y corriente?
+
 Los valores eficaces también tienen su denominación con el extranjerismo RMS, que significa root mean square o en español raíz cuadrada de la media, y con respecto al voltaje se refiere al voltaje de corriente directa que produce la misma cantidad de calor en una resistencia que un voltaje sinusoidal o de corriente alterna. Así mismo, la corriente eficaz es la que es producida por el voltaje RMS, el cual también debe tener un valor menor al voltaje pico, que es el máximo voltaje que alcanza una onda sinusoidal.
+
 ## 6. Video
   *
 ## 7. Conclusiones
