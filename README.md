@@ -8,7 +8,7 @@
 * Chacha Chacha Kevin Alejandro
 ## 1. Objetivos
   ### General: 
-  * 
+  * Diseñar los circuitos propuestos en la práctica para calcular los valores de voltaje, corriente y valor pico de las ondas al variar las frecuencias utilizando las herramientas de medición que se disponen en el simulador Dcaclab. 
   ### Específicos
   * Verificar el comportamiento de la bobina y el capacitor en circuitos DC
   * Verificar el comportamiento de la bobina y el capacitor en circuitos AC
@@ -56,7 +56,7 @@ _Ilustración 3. Voltaje medido con las frecuencias de 100Hz, 500Hz y 1000Hz_
     
 3) Utilizar le multímetro para medir el voltaje V0 variando la freciencia enmtre los valores de 0,10, 50, 100, 500, 1000 Hz. Anotar los resultados en la tabla 7.1
 
-
+![image](https://user-images.githubusercontent.com/93829962/152913748-915072d0-2ce1-4a53-975d-0490edfd94ef.png)
 
 _Ilustración 4. Voltaje Vo medido con multímetro para cada frecuencia_
  
@@ -87,12 +87,13 @@ _Ilustración 8. Voltaje medido con las frecuencias de 100Hz, 500Hz y 1000Hz_
     
 3) Utilizar le multímetro para medir el voltaje V0 variando la freciencia enmtre los valores de 0,10, 50, 100, 500, 1000 Hz. Anotar los resultados en la tabla 7.2
 
+![image](https://user-images.githubusercontent.com/93829962/152913053-e4441faf-00ef-43e1-b602-a174aa4aa8b6.png)
 
 _Ilustración 9. Voltaje Vo medido con multímetro para cada frecuencia_
  
 4) Utilizar el multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anotar los rsultados en la tabla 7.2
 
-
+![image](https://user-images.githubusercontent.com/93829962/152913472-b3907c53-7890-4027-8d1d-7541e18c4b8a.png)
   
 _Ilustración 10. Mediciones con multímetro sobre la corriente en la resistencia_
 
@@ -110,7 +111,7 @@ _Tabla 7.2 Valores de voltaje V0 de circuito 2_
 
 ## Comparación de resultados
 
-_Tabla 7.3 Comparación de mediciones_
+Tras haber revisado las mediciones obtenidas sobre voltaje pico, voltaje y corriente en cada circuito, se puede evidenciar que el voltaje pico en ambos circuitos va variando segun la frecuencia, ya que la amplitud de la onda seno irá variando debido a que cambia la frecuencia. Con respecto a las variaciones que se da en el voltaje, en el primer circuito este irá disminuyendo en los capacitores de manera inversamente proporcional a la frecuencia, ya que mientras aumenta uno el otro se ve reducido; en el segundo circuito en cambio el voltaje en los inductores va a crecer de manera directamente proporcional al aumento de la frecuencia, llegando a ser mayor cuando la freucencia tiene su valor más alto. Y con respecto a la corriente que se dá en la resistencia, se puede ver que varía de forma desproporcional en ambos circuitos eléctricos mientras la frecuencia va aumentando su cantidad.
     
 ## 4. Respuesta a interrogantes
 1. ¿Cómo se comportan la bobina y el capacitor en coriente continua (cero Hz)?
