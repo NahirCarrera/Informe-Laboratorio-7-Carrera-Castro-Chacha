@@ -103,9 +103,11 @@ _Ilustración 10. Mediciones con multímetro sobre la corriente en la resistenci
     
 _Tabla 7.1 Valores de voltaje V0 de circuito 1_
 
+![image](https://user-images.githubusercontent.com/93829962/152912195-79352f90-7809-4e39-a1c8-fb66b4e765ab.png)
 
 _Tabla 7.2 Valores de voltaje V0 de circuito 2_
     
+![image](https://user-images.githubusercontent.com/93829962/152912220-834714e0-3a2d-42b9-9282-c55efcd772f7.png)
 
 ## Comparación de resultados
 
