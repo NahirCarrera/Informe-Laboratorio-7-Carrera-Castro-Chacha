@@ -134,6 +134,6 @@ Los valores eficaces también tienen su denominación con el extranjerismo RMS, 
 ## 6. Video
   *
 ## 7. Conclusiones
-  * 
+  * Tras completar la parte práctica del presente laboratorio, se analizó y evaluó los datos obtenidos para dar paso a la siguiente conclusión, como primer punto en ambos circuitos se pudo observar con la ayuda del osciloscopio que al variar el valor de la frecuencia también cambia el voltaje pico, esto se entiende mejor ya que existe una relación de la frecuencia y la amplitud de onda sinusoidal; sin embargo, la variación de frecuencia no está únicamente relacionada con el voltaje pico. Los valores de voltaje y corriente también varían dependiendo del valor de frecuencia con el que se esté trabajando, por un lado, en el circuito donde se usa los condensadores se pudo evidenciar que el voltaje disminuye a medida que la frecuencia aumenta, mientras que en el segundo circuito el voltaje correspondiente a los inductores aumenta al igual que lo hace la frecuencia, cabe mencionar que no existe un crecimiento proporcional fijo de estos valores. Por último, la corriente no presenta una variación fija mientras la frecuencia aumenta su valor.   *
 ## 8. Bibliografía
  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
